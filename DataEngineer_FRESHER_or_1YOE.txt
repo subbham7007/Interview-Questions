@@ -1,0 +1,11 @@
+1. Idempotency concept (I Couldnt answer)
+2. 2 SQL Joins + highest salary + Window fucntions
+3. Asked to write a basic query using Having just to check my writing skill
+4. If test phase is working fine but Prod phase isn't then what could be the potential issues. ??
+5. Explain my CV projects --> VoiceAssistant
+6. Explain ETL and its workflow (as Detailed as you can go)
+7. What measures you take to Do Data Validation 
+8. What filters you use and Why ? as in for ETL 
+9. Which platform you use For ETL 
+
+** Pov - These are my personnel experiences not any LinkedIn Gimmick for fame**
