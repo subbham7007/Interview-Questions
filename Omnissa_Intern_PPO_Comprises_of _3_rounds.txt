@@ -1,0 +1,52 @@
+Round (1 Theory Technical)Time - 45 mins +Round 2(Application)Time ->~40 mins + Round 3 (Managerial +Technical)Time ->1 hr 23 mins
+
+1.Ml topics - Linear regression, Decission trees , Random forests,
+2. Made me solve a Decision tree example --> how the split happens information gain
+3. What other method Gini index
+4. Difference between gini's index and information gain 
+5. When to select what ??
+6. How to eliminate OVerfitting  even before doing anything on code level likw regularization : -> Add more data , Try to avoid DATA LEAKAGE.
+7. CNN - Dropout and some more I dont remember those 
+
+
+Python --
+1. Explain basic Data structures in python 
+2. Example of each data structure in Real life
+3. List 
+4. List Comprehension + Code example
+3. RMSE Code from Scratch given two numpy array/lists
+4. How would you handle erros . Hndle the errors using RaiseValue error etc ..
+5. Edge cases
+6. Make more Robust for Customers put in response messages whenever Customer does some mistake in entering the data required
+7. Lambda function
+8. Constructors in python
+9. Self keyword
+
+SQL --
+1. Basics
+2. ever worked with it --> Yes
+3. Window functions 
+4. explain them with basic syntax
+5. Scenario given two list of numbers according to the question tell when touse which Window function and why ? also show respective output to support your answer 
+6. Having clause use
+7. aggregate fucntions
+8. How to optimize (I couldn't answer much )
+9. Having vs Where.
+
+Managerial--
+1. Why mathematics background
+2. Project discussion
+3. Your weaknesses +Strengths
+4. Scenario Questions - Team mate is not helping/collaborating how to overcome this 
+5. Ever faced Disagreement and if yes...??  then how to tackle it.
+6. What motivates you..
+7. What features should A Manager posses from your perspective to be the best out there 
+8. Difference between Good team and Bad team
+9. Where do you see yourself down the line in nxt 5 years and your Vision.
+
+
+** Personnel experience --no Gimmick**
+**POV- these are the max questions I remember there were a few more
+** Stipend - 1 Lakkkhss.. 
+** Internship
+** Sad part - Drive got CANCELLED
