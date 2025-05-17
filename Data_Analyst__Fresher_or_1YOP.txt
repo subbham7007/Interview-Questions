@@ -1,0 +1,18 @@
+$$ DATA ANALYST - Fresher / +1 year experience
+
+1. SQL basics
+2. Describe ETL Pipeline and workflow
+3. HAVING vs WHERE
+4. Describe Predictive, Prescriptive, Descriptive types of Analysis
+5. Basic Group by query (My mistake - Forgot to use Group by here)
+6. How to change Color of a particular bar in barplot visualization in Tableau
+7. What change can you make to the visualization to make it more user friendly
+8. Case when Line plot is more preferred over Bar plot and difference between them
+9. (Prerequisite - I was alos given a Data , EDA based Assesment for 2nd Round)
+	Based on the assessment you have done what suggestions would you give 
+10. 2 SQL Queries 
+	1. Join over 2 table + row_number
+	2. Join over 3 tables (mostly to find some salary related stuff across mentioned tables
+
+** I have included only those questions which I remembered ##
+# No LinkedIn gimmick this is a Personnel experience.
